@@ -17,6 +17,8 @@
 	
 <h2>Custom pizzas:</h2><br />
 
+	<a href="/custom">click here to make your own pizza</a><br />
+
 <h2>Leave us a review thx:</h2><br />
 	
 	<a href="/review">click here to leave a five star review</a><br />

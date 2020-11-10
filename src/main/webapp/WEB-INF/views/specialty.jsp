@@ -12,8 +12,10 @@
 
 	Name: ${ name }<br />
 	Price: $${ price }0<br />
+	<br />
 
-
+ <a href="/homepage">return to homepage</a><br />
+ 
 
 </body>
 </html>

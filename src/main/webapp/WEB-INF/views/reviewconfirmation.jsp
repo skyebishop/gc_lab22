@@ -12,7 +12,12 @@
 	<h2>Hello, ${ name }</h2>
 	Thank you for your ranking of ${ ranking } and for your feedback of: <br />
 	<br />
-	${ feedback }
+	${ feedback }<br />
+	
+	<br /><a href="/homepage">return to homepage</a><br />
+	
+	
+	
 
 </body>
 </html>
