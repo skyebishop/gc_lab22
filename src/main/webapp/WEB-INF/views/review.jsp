@@ -10,7 +10,7 @@
 
 <form method="post" action="/reviewconfirmation">
 	name: 
-	<input type="text" name="name"/><br />
+	<input type="text" name="name" required="required"/><br />
 	<br />
 	
 	ranking: 
@@ -22,7 +22,7 @@
 	<br />
 	
 	comments or suggestions:<br /> 
-	<textarea name="feedback" style="width:250px;height:150px;"></textarea>
+	<textarea name="feedback" minlength="5" required="required" style="width:250px;height:150px;"></textarea>
 	<br />
 <input type="submit" />
 </form>
